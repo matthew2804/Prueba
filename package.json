@@ -1,0 +1,23 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "hola",
+  "keywords": [
+    "keywords"
+  ],
+  "homepage": "https://github.com/matthew2804/Prueba#readme",
+  "bugs": {
+    "url": "https://github.com/matthew2804/Prueba/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew2804/Prueba.git"
+  },
+  "license": "ISC",
+  "author": "matthew",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
